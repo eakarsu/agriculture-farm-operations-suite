@@ -7,6 +7,9 @@ Primary routes:
 - `/profiles`
 
 Feature routes:
+- `/harvest-risk-plan`
+- `/crop-market-intel`
+- `/yield-prediction`
 - `/records`
 - `/workspaces`
 - `/requests`

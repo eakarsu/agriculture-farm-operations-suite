@@ -1,5 +1,19 @@
 export const sourceProjectTools = [
   {
+    "id": "yield-prediction-market-intel-copilot",
+    "title": "Yield Prediction Market Intel Copilot",
+    "category": "Yield Prediction Market Intel",
+    "description": "Focused Yield Prediction Market Intel AI tool elevated inside the current merged suite.",
+    "defaultPrompt": "Review the Yield Prediction Market Intel context. Return a professional summary, risks, missing evidence, next actions, and audit-ready outputs.",
+    "inputLabel": "Yield Prediction Market Intel context",
+    "outputLabel": "Yield Prediction Market Intel AI response",
+    "signals": [
+      "Yield Prediction",
+      "Crop Market Intel",
+      "Harvest Risk Plan"
+    ]
+  },
+  {
     "id": "ai-low-pesticide-agriculture-source-workflow",
     "title": "AI Low Pesticide Agriculture Source Workflow",
     "category": "Source Project Coverage",

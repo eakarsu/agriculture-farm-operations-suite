@@ -1,8 +1,8 @@
 # Agriculture Farm Operations Suite Source Data Tables
 
-Mapped source projects: 9
+Mapped source projects: 10
 
-Detected source tables: 199
+Detected source tables: 201
 
 | Source Project | Table | Framework | Columns | Source File |
 | --- | --- | --- | ---: | --- |
@@ -205,3 +205,5 @@ Detected source tables: 199
 | AIWindSolarFarmOps | webhooks | SQL | 8 | backend/migrations/001_schema.sql |
 | AIWindSolarFarmOps | work_order_transitions | SQL | 8 | backend/migrations/002_pass7_backlog.sql |
 | AIWindSolarFarmOps | work_orders | SQL | 9 | backend/migrations/001_schema.sql |
+| AIYieldPredictionMarketIntel | gap_features | SQL | 5 | backend/src/routes/batch09GapAi.js |
+| AIYieldPredictionMarketIntel | gap_features | SQL | 5 | backend/src/routes/batch09GapNonai.js |

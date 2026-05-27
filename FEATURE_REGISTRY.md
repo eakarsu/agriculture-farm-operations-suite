@@ -18,3 +18,13 @@
 - Profiles
 - AI Assistant
 - AI Tools
+
+## Yield Prediction Market Intel
+
+- Yield Prediction
+- Crop Market Intel
+- Harvest Risk Plan
+
+## Focused enhancement: Yield Prediction Market Intel
+
+Source evidence: AIYieldPredictionMarketIntel.

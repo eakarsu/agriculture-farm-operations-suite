@@ -10,6 +10,21 @@ export type SourceDashboardAction = {
 
 export const sourceDashboardActions: SourceDashboardAction[] = [
   {
+    "id": "yield-prediction-market-intel",
+    "label": "Yield Prediction Market Intel",
+    "description": "Open Yield Prediction Market Intel workflows elevated from AIYieldPredictionMarketIntel.",
+    "href": "/yield-prediction",
+    "sourceProjects": [
+      "AIYieldPredictionMarketIntel"
+    ],
+    "examples": [
+      "Yield Prediction",
+      "Crop Market Intel",
+      "Harvest Risk Plan"
+    ],
+    "count": 1
+  },
+  {
     "id": "ai-assistant",
     "label": "AI Assistant",
     "description": "Run source-derived AI assistant workflows and prompts.",

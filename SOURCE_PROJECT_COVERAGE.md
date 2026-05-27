@@ -11,3 +11,4 @@
 | AILivestockHealthMonitoring | 0 | 0 | 0 | 15 | frontend/src/pages/AIToolsPage<br>frontend/src/pages/GapAgentic<br>frontend/src/pages/GapAiBreedingAdvisor<br>frontend/src/pages/GapAiDiseaseRiskAssessment<br>frontend/src/pages/GapAiEconomicForecaster |
 | AIWindSolarFarmOps | 0 | 0 | 0 | 31 | frontend/src/pages/AIAssetDegTrendPage<br>frontend/src/pages/AIBladeInspectionPage<br>frontend/src/pages/AICurtailmentOptimizePage<br>frontend/src/pages/AIDispatchConfidencePage<br>frontend/src/pages/AIDraftWorkOrderPage |
 | ai-low-pesticide-agriculture | 0 | 0 | 0 | 25 | frontend/tailwind.config<br>frontend/src/main<br>frontend/src/pages/CfResidueAuditTrail<br>frontend/src/components/AICenter<br>frontend/src/components/AIResponse |
+| AIYieldPredictionMarketIntel | 0 | 0 | 0 | 1 | Yield Prediction<br>Crop Market Intel<br>Harvest Risk Plan |
